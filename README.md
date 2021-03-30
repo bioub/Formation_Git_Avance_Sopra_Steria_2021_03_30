@@ -10,7 +10,7 @@ Formation Git Avancé pour **Sopra Steria** du 30/03/2021
 - git merge
 - git rebase
 - git cherry-pick
-- git ref-log
+- git reflog
 
 # Bibliothèques de gestions des hooks
 
