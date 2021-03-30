@@ -15,3 +15,4 @@ Formation Git Avancé pour **Sopra Steria** du 30/03/2021
 
 - husky
 - lint-staged
+- simple-git-hooks
